@@ -1,2 +1,3 @@
-# docker-mysql
-mysql docker
+# mysql
+
+mysql captomd configuration
