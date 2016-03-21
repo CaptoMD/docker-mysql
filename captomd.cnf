@@ -1,0 +1,7 @@
+#
+# CaptoMD MySQL config
+#
+
+[mysqld]
+collation_server       = utf8_unicode_ci
+character_set_server   = utf8
